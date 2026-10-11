@@ -1,6 +1,10 @@
 > **Experimental only. Not a product.**
 >
 > Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
+>
+> **Part of [tn-master](https://github.com/STP-KAS/tn-master)**, the map of every TN10 storm. Renamed on 11 Oct 2026 from `grok-bot-explorer-rewards-check`; old links redirect here.
+>
+> ← previous storm: [tn10-storm-2026-09-26-build-opinion](https://github.com/STP-KAS/tn10-storm-2026-09-26-build-opinion) | next storm: [tn10-storm-2026-09-26-r3](https://github.com/STP-KAS/tn10-storm-2026-09-26-r3) →
 
 # TN10 explorer check: mining rewards vs. a transaction list stuck at 21:55
 
@@ -128,4 +132,4 @@ python3 scripts/reward-window.py 60                   # needs local kaspad wRPC 
 
 ## Related
 
-- Summary of the TN10 stress rounds (1–8): [tn10-vprogs-stress-findings](https://github.com/STP-KAS/tn10-vprogs-stress-findings)
+- Summary of the TN10 stress rounds (1–8): [tn10-storm-2026-09-25](https://github.com/STP-KAS/tn10-storm-2026-09-25)
